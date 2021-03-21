@@ -1,0 +1,5 @@
+.background {
+  background: url(../../asset/cropped-cropped-bb.jpg) center center no-repeat;
+  height: 70vh;
+  background-size: cover;
+}
