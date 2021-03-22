@@ -6,6 +6,7 @@ import { Home } from "./component/Home";
 import { Skills } from "./component/Skills";
 import { About } from "./component/About";
 import { Container } from "react-bootstrap";
+import { Project } from "./component/Project";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Container>
         <Skills />
         <About />
+        <Project />
       </Container>
     </div>
   );
